@@ -1,0 +1,8 @@
+{
+	"name": "image-processing",
+	"version": "0.1.0",
+	"builtin-baseline": "d43918b9143e24ffb56917daacd9126ad03014d6",
+	"dependencies": [
+		"stb"
+	]
+}
